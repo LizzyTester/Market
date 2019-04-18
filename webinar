@@ -1,6 +1,4 @@
 window.confg= {
-	    //租户Id
-	    "tenantId": "110",
 	    //模块ID
 	    "moduleId": "26",
 	    //文章栏目ID
@@ -9,8 +7,6 @@ window.confg= {
 	    "schemaId": "481",
 	    //资料库ID
 	    "folderId":"1009615",
-	    //约定加密串加密串
-	    "t":"BJSN-201806260001-439",
 	    //游戏去第三方跳转地址
 	    "activeUrl":"http://www.smarket.net.cn",
 	    //登录地址
